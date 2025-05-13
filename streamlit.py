@@ -20,7 +20,7 @@ st.set_page_config(layout="wide", page_title="Analisis Kernel SVM Multi-Rasio")
 
 # --- Default Local File Path ---
 # Ganti dengan path aktual ke file CSV Anda jika diperlukan
-DEFAULT_LOCAL_CSV_FILE_PATH = r"C:\Users\ahmdf\Pictures\kurnia\baru\polasuh1output.csv"
+DEFAULT_LOCAL_CSV_FILE_PATH = r"polasuh1output.csv"
 
 # --- Application Title ---
 st.title("🧪 Analisis Performa Kernel SVM Multi-Rasio")
