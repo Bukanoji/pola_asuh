@@ -50,6 +50,7 @@ pytz==2025.2
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.24.0
+sastrawi==1.0.1
 scikit-learn==1.6.1
 scipy==1.15.2
 seaborn==0.13.2
